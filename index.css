@@ -1,0 +1,12 @@
+.canvas-container {
+  text-align: center;
+}
+
+.buttons-container {
+  text-align: center;
+  margin-top: 10px;
+}
+
+button {
+  margin: 5px;
+}
